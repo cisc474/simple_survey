@@ -1,0 +1,24 @@
+.hidden {
+    display: none
+}
+
+#remaining_points {
+  color: green
+}
+
+#g_remaining_points {
+  color: green
+}
+
+.none {
+    color: red !important
+}
+
+span.talent {
+    float: left;
+    width: 45%;
+}
+
+.talent {
+    font-weight: bold;
+}
